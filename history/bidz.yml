@@ -1,7 +1,7 @@
 url: https://bidz.app
-status: up
-code: 200
-responseTime: 349
-lastUpdated: 2025-02-10T23:01:32.480Z
+status: down
+code: 500
+responseTime: 765
+lastUpdated: 2025-02-11T17:11:48.002Z
 startTime: 2025-02-08T20:11:59.849Z
 generator: Upptime <https://github.com/upptime/upptime>
