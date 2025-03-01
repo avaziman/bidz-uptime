@@ -4,19 +4,19 @@
     "url": "https://bidz.app",
     "icon": "https://icons.duckduckgo.com/ip3/bidz.app.ico",
     "slug": "bidz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 391,
-    "timeWeek": 503,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 520,
+    "timeDay": 462,
+    "timeWeek": 514,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-03-01": 0
+      "2025-03-01": 6
     }
   },
   {
