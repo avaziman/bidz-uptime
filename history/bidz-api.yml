@@ -1,7 +1,7 @@
 url: https://api.bidz.app/people
-status: up
-code: 200
-responseTime: 673
-lastUpdated: 2025-03-19T23:01:42.761Z
+status: down
+code: 502
+responseTime: 613
+lastUpdated: 2025-03-20T08:43:52.287Z
 startTime: 2025-02-08T20:12:00.808Z
 generator: Upptime <https://github.com/upptime/upptime>
